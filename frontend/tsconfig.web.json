@@ -12,6 +12,18 @@
     "paths": {
       "@renderer/*": [
         "src/renderer/src/*"
+      ],
+      "@styles/*":[
+        "src/renderer/src/assets/styles/*"
+      ],
+      "@components/*":[
+        "src/renderer/src/components/*"
+      ],
+      "@services/*":[
+        "src/renderer/src/services/*"
+      ],
+      "@pages/*":[
+        "src/renderer/src/pages/*"
       ]
     }
   }
